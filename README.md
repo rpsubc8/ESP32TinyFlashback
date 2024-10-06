@@ -8,7 +8,7 @@ Based on BeOS SDL port by Maciej Witkowiak
 
 
 <br><br>
-<h1>Screeenshots(64 colors)</h1>
+<h1>Screenshots (64 colors)</h1>
  <table>
   <tr>
    <th>Front page</th>
